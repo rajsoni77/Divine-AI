@@ -10,8 +10,8 @@ Certainly, here's a brief README for your GitHub repository for your project bas
 - **Home Page**: The home page introduces the project and its purpose, providing an overview of how users can benefit from it.
 - **Talk Page**: Users can interact with the chatbot to seek guidance and solutions to life problems by asking questions related to their concerns.
 - **Voice Recognition**: Provides a voice input option for user queries.
-**Text-to-Speech**: Delivers answers through audio responses.
-**User-Friendly UI**: A clean and intuitive interface for an enhanced user experience.
+- **Text-to-Speech**: Delivers answers through audio responses.
+- **User-Friendly UI**: A clean and intuitive interface for an enhanced user experience.
   
 ## Technologies Used
 
