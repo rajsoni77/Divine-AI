@@ -8,11 +8,11 @@ Certainly, here's a brief README for your GitHub repository for your project bas
 ## Features
 
 - **Home Page**: The home page introduces the project and its purpose, providing an overview of how users can benefit from it.
-
 - **Talk Page**: Users can interact with the chatbot to seek guidance and solutions to life problems by asking questions related to their concerns.
 - **Voice Recognition**: Provides a voice input option for user queries.
 **Text-to-Speech**: Delivers answers through audio responses.
 **User-Friendly UI**: A clean and intuitive interface for an enhanced user experience.
+  
 ## Technologies Used
 
 - **Frontend**: Built with React.js, providing an intuitive and responsive user interface.
@@ -23,7 +23,9 @@ Certainly, here's a brief README for your GitHub repository for your project bas
 
 - **Voice Recognition**: Utilizes voice recognition technology.
 
--**Text-to-Speech**: Offers audio responses for user queries.
+- **Text-to-Speech**: Offers audio responses for user queries.
+
+- **AI**: Openai API is used for fetching the data from the prompt
 
 ## Getting Started
 
@@ -32,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/rajsoni77/Divine-AI.git
    ```
 
 2. Install the required dependencies for both the frontend and backend:
