@@ -3,8 +3,6 @@ Certainly, here's a brief README for your GitHub repository for your project bas
 
 ---
 
-# Divine AI
-
 **Divine AI** is a project that offers guidance and solutions for life problems based on the teachings of the Bhagavad Gita. It consists of a user-friendly web interface and a chatbot that helps users find answers to their questions.
 
 ## Features
